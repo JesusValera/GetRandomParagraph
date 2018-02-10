@@ -53,7 +53,7 @@ public class Main {
      * The program counts by lines however does not count empty lines.
      * E.g:
      * <p>
-     * --- document.exe ---
+     * --- document.txt ---
      * 1| - Hello
      * 2| - mi name is
      * 3| -
